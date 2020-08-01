@@ -1,0 +1,36 @@
+time,sample,starch_release
+0,Bread,0
+30,Bread,57.58
+60,Bread,75.65
+90,Bread,80.14
+120,Bread,81.63
+150,Bread,82.54
+180,Bread,82.54
+0,Kon joha,0
+30,Kon joha,44.25
+60,Kon joha,50.74
+90,Kon joha,54.89
+120,Kon joha,56.36
+150,Kon joha,56.36
+180,Kon joha,56.36
+0,Keteki Joha,0
+30,Keteki Joha,38.5
+60,Keteki Joha,46.67
+90,Keteki Joha,48.8
+120,Keteki Joha,50.49
+150,Keteki Joha,50.49
+180,Keteki Joha,50.49
+0,Maniki modhuri joha,0
+30,Maniki modhuri joha,36.3
+60,Maniki modhuri joha,46.3
+90,Maniki modhuri joha,49.05
+120,Maniki modhuri joha,50.02
+150,Maniki modhuri joha,50.02
+180,Maniki modhuri joha,50.02
+0,Kola joha,0
+30,Kola joha,35.98
+60,Kola joha,45.59
+90,Kola joha,48.16
+120,Kola joha,48.84
+150,Kola joha,48.84
+180,Kola joha,48.84
